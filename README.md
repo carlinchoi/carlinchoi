@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Carlin 👋</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=carlinchoi&label=Profile%20views&color=0e75b6&style=flat" alt="carlinchoi" /> </p>
-<h3 align="center">School Psychologist, looking to transition into software engineering!</h3>
+<h1 align="left">Hi, I'm Carlin 👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlinchoi&label=Profile%20views&color=0e75b6&style=flat" alt="carlinchoi" /> </p>
+<h3 align="left">School Psychologist, looking to transition into software engineering!</h3>
 
-<h3 align="center">About Me</h3>
-<p align="center">Passionate about web development, cloud computing, and open source. I enjoy solving complex problems and building scalable solutions.</p>
+<h3 align="left">About Me</h3>
+<p align="left">Passionate about web development, cloud computing, and open source. I enjoy solving complex problems and building scalable solutions.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +17,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlinchoi&show_icons=true&locale=en&layout=compact" alt="carlinchoi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlinchoi&" alt="carlinchoi" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=carlinchoi&" alt="carlinchoi" /></p>
 
 
 
