@@ -5,19 +5,7 @@
 <h3 align="left">About Me</h3>
 <p align="left">
 
-My journey into coding began with a strong push from my brother, a seasoned software engineer, who became my mentor and urged me to build a robust foundation in JavaScript. His analogy of constructing a solid, concrete foundation instead of shaky ground resonated deeply with me and has been my guiding principle ever since.
-
-This early foundation led me to pursue a formal education at Tech Elevator, where I immersed myself in dynamic web-based software systems using Java. However, my enthusiasm for coding transcended the classroom. I complemented my formal training with self-study and hands-on projects, fully embracing languages like Java, JavaScript, and React to apply my knowledge in real-world scenarios.
-
-Rather than waiting for the 'perfect' moment to shift careers, I'm a firm believer in seizing opportunities. The transition to a coding career presented its fair share of challenges, but each hurdle became a rewarding lesson that only fueled my commitment to continuous growth.
-
-After completing my boot camp, I dove headfirst into mastering React, self-teaching, and then applying it to a full-stack project. This experience showcased not only my dedication but also my passion for software engineering. This multifaceted approach equipped me with a versatile skill set, paving the way for excellence in the industry.
-
-To showcase my learning and skillset, I explored cloud technologies and AWS, where I successfully deployed two full-stack projects. You can explore these projects at https://visualfinance.pro and https://www.rockvilleanimalshelter.com.
-
-In addition to formal education and project work, I follow a disciplined routine, typically dedicating around 3 hours of focused deep work followed by an hour of break time when building my projects and studying data structures and algorithms. This approach has been instrumental in enhancing my productivity and problem-solving skills.
-
-I have a unique learning style, which involves grasping coding concepts thoroughly before immersing myself in projects. This approach grants me a profound understanding of code intricacies. I actively seek out challenges, learn from my errors, and troubleshoot solutions, fostering a comprehensive grasp of the coding landscape. This holistic approach fuels my passion for continuous growth in the field of software engineering.
+My journey into coding began with my brother, a seasoned software engineer, who urged me to build a strong foundation in JavaScript. This led me to formal education at Tech Elevator, where I immersed myself in web-based software systems using Java. Beyond the classroom, I embraced Java, JavaScript, and React through self-study and hands-on projects. I believe in seizing opportunities, and my transition to coding was fueled by challenges that strengthened my commitment to growth. I mastered React, self-taught, and applied it to a full-stack project, showcasing my dedication and passion for software engineering. I also explored cloud technologies and AWS, successfully deploying two full-stack projects. My disciplined routine and unique learning style, which involves grasping coding concepts before diving into projects, enhance my productivity and problem-solving skills. This holistic approach fuels my passion for continuous growth in software engineering.
 </p>
 
 <h3 align="left">Connect with me:</h3>
