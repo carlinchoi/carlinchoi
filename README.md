@@ -12,6 +12,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
+  <div>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
@@ -20,7 +21,7 @@
   <p align="left"> 
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlinchoi&show_icons=true&locale=en&layout=compact" alt="carlinchoi" />
   </p>
-
+</div>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
