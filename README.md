@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Carlin 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlinchoi&label=Profile%20views&color=0e75b6&style=flat" alt="carlinchoi" /> </p>
-<h3 align="center">Passionate about web development. I enjoy solving complex problems and building scalable solutions.</h3>
+<h3 align="center">Full-Stack Software Engineer | Passionate about Building Scalable Web Solutions</h3>
 
 <h3 align="left">About Me</h3>
 <p align="left">
