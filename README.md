@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Carlin 👋</h1>
-<h3 align="center">School Psychologist, looking to transition into software engineering!</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carlinchoi&label=Profile%20views&color=0e75b6&style=flat" alt="carlinchoi" /> </p>
+<h3 align="center">School Psychologist, looking to transition into software engineering!</h3>
 
 <h3 align="center">About Me</h3>
 <p align="center">Passionate about web development, cloud computing, and open source. I enjoy solving complex problems and building scalable solutions.</p>
@@ -65,11 +64,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
 </p>
-
-<p align="left"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlinchoi&show_icons=true&locale=en&layout=compact" alt="carlinchoi" />
-</p>
-
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlinchoi&" alt="carlinchoi" />
-</p>
+<div>
+  <p align="left"> 
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlinchoi&show_icons=true&locale=en&layout=compact" alt="carlinchoi" />
+  </p>
+</div>
+<div>
+  <p align="center"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlinchoi&" alt="carlinchoi" />
+  </p>
+</div>
