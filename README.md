@@ -20,7 +20,7 @@ My journey into coding began with my brother, a seasoned software engineer, who 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlinchoi&show_icons=true&locale=en&layout=compact" alt="carlinchoi" /></p>
 
-<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=carlinchoi&" alt="carlinchoi" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlinchoi&" alt="carlinchoi" /></p>
 
 
 
